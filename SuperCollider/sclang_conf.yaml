@@ -1,0 +1,10 @@
+includePaths:
+    -   /home/jordan/.local/share/SuperCollider/downloaded-quarks/Bjorklund
+    -   /home/jordan/.local/share/SuperCollider/downloaded-quarks/SafetyNet
+    -   /home/jordan/.local/share/SuperCollider/downloaded-quarks/JITLibExtensions
+    -   /home/jordan/.local/share/SuperCollider/downloaded-quarks/SimpleDMXControl
+    -   /home/jordan/.local/share/SuperCollider/downloaded-quarks/DMX
+excludePaths:
+    []
+postInlineWarnings: false
+excludeDefaultPaths: false

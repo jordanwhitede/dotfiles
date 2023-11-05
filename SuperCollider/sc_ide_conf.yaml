@@ -1,0 +1,17 @@
+IDE:
+  mainWindow:
+    detached: !QVariantMap
+      documents-dock: ""
+      help-dock: ""
+      post-dock: ""
+    geometry: AdnQywADAAAAAAAAAAAAFAAAB38AAARLAAAAAAAAABQAAAHbAAAEEAAAAAAABAAAB4AAAAAAAAAAFAAAB38AAARL
+    state: AAAA/wAAAAD9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAfsAAAAcAGQAbwBjAHUAbQBlAG4AdABzAC0AZABvAGMAawAAAAAA/////wAAAF8A////AAAAAQAAAUEAAAQG/AIAAAAC+wAAABIAaABlAGwAcAAtAGQAbwBjAGsBAAAAFgAAAFIAAABNAP////sAAAASAHAAbwBzAHQALQBkAG8AYwBrAQAAAGkAAAOzAAAATQD///8AAAY+AAAEBgAAAAEAAAACAAAAAQAAAAL8AAAAAA==
+  postWindow:
+    lineWrap: false
+  recentDocuments: !QVariantList
+    - /home/jordan/test.scd
+    - /home/jordan/test_0.scd
+    - /home/jordan/Documents/music-work/new_solo_project/011123_livecode/011123.scd
+    - /home/jordan/.local/share/SuperCollider/downloaded-quarks/SuperDirt/my_superdirt_startup.scd
+    - /home/jordan/.local/share/SuperCollider/downloaded-quarks/SuperDirt/superdirt_startup.scd
+    - /home/jordan/Documents/drums.scd
